@@ -1,0 +1,11 @@
+1. Alert		alert()					// print out alert in browser
+2. Console		console.log()				// write down in console
+3. Confirm		confitm();				// confirm request
+4. Prompt		prompt()				// make input box in browser
+5. Set timeout		setTimeout(function()){			// run a code after a space of time
+			     // function in here
+			}, 1000) // time in unit ms	
+
+6. Set interval		setTimeout(function()){			// run function until reach a mark of time
+			     // function in here
+			}, 1000) // time in unit ms
